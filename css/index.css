@@ -1,0 +1,34 @@
+header{
+  background: blue;
+  color: white;
+  text-align: center;
+  margin: 1%;
+  padding: 2%;
+  font-size: 25px;
+  font-weight:600;
+  border: 2px solid black;
+  box-shadow: 2px 10px red ;
+}
+a img{
+  display: block;
+  margin:1% 3% 0 auto;
+  width: 20%;
+  height:20%;
+}
+.child img{
+  width: 280px;
+  height: 280px;
+  margin: 1%;
+}
+.child{
+  width: 305;
+  text-align: center;
+  border: 2px solid black;
+  margin: 1%;
+  background:skyblue;
+}
+.parent
+{
+  display: flex;
+
+}
